@@ -1,0 +1,11 @@
+@import url(//db.onlinewebfonts.com/c/de0822e9f8a522a213352674e6b6dc38?family=Seaweed+Script);
+
+.header {
+    font-family: Seaweed Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+    letter-spacing: 0.51em;
+    color: #FF8A00;
+}
